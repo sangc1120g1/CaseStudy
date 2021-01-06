@@ -1,0 +1,9 @@
+.d1{
+    position: absolute;height: 650px;width: 300px;left: 32px; top: 30px;
+}
+body {
+    background-color: blue;
+}
+.c1{
+    position: absolute;left: 500px;top: 32px;
+}
