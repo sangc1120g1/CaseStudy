@@ -32,7 +32,7 @@ function colors() {
     if (clicks % 2 != 0) {
         document.getElementById("p1").style.color = "black"
     } else {
-        document.getElementById("p1").style.color = "blue"
+        document.getElementById("p1").style.color = "#10cce400"
     }
 }
 
